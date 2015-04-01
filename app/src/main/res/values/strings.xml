@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NetworkSwitcher</string>
+    <string name="action_settings">Settings</string>
+    <string name="force_stop_service">Force stop the service</string>
+    <string name="receiver_enabled">Receiver enabled</string>
+    <string name="receiver_disabled">Receiver disabled</string>
+</resources>
