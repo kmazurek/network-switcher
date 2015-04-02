@@ -152,7 +152,7 @@ public class BeaconServiceReceiver extends BroadcastReceiver
                 beaconManager.setBackgroundScanPeriod(10 * 1000, 30 * 1000);
                 break;
             case AWAY_MODE:
-                beaconManager.setBackgroundScanPeriod(7 * 1000, 15 * 1000);
+                beaconManager.setBackgroundScanPeriod(5 * 1000, 15 * 1000);
                 break;
         }
     }
